@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.font-link{
+font-family: 'Baloo Bhaijaan 2', cursive;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
+.ContainerF{
+  border: 2px solid black;
+  border-radius: 15px;
+  padding:32px;
+  width: 300px;
+  background-color: white;
+}
+.ContainerF2{
+  border: 2px solid black;
+  border-radius: 15px;
+  padding:32px;
+  width: 309px;
+  background-color: white;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.btn{
   color: white;
+  background: dodgerblue;
+  width: 197px;
+  padding: 10px;
 }
-
-.App-link {
-  color: #61dafb;
+.mid{
+  padding:31px;
 }
+.mid2{
+  padding: 66px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.mid3{
+  padding: 108px;
+
+}
+.signC{
+  padding:"122px"
+}
+.err{
+  color:red;
+}
+.FormC.Field{
+  padding: 23px;  
+}
+.Fc{
+  padding: 05px;
+  width:266px
+}
+.Lc{
+  text-align: left;
+}
+.alignC{
+  
 }
