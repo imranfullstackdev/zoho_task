@@ -13,5 +13,8 @@ In Component i had made the SignUp.js,SignIN.js,Contact.js,verF.js
 # Commond to run the app
 Next->go to terminal by pressing (ctrl+`)
 Go to project folder
+npm i
 npm start
+localhost:3000
+if you are extracting the file i request you to please nun local host:3000 don't run locolhost:3000/Zohotask
 
